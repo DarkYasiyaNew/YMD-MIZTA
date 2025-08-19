@@ -62,7 +62,6 @@
         "sqlite3": "^5.1.7",
         "systeminformation": "^5.21.11",
         "tinyurl": "^1.1.7",
-        "translate-google": "1.5.0",
         "util": "^0.12.4",
         "wa-sticker-formatter": "^4.4.4",
         "whois-json": "^2.0.4",
